@@ -1,4 +1,4 @@
-  {
+{ {
       "id_certificado": 181823,
       "nu_cfo": "5215001202",
       "id_dare": 3954675,
@@ -1678,3 +1678,4 @@
       "nu_servicoinspecao_rotulo": null,
       "nu_estabelecimento": null
   }
+}
